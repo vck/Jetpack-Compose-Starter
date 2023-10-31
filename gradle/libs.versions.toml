@@ -2,7 +2,7 @@
 
 # ... PROJECT ...
 java = "17"
-kotlin = "1.9.10"
+kotlin = "1.9.20"
 androidGradlePlugin = "8.1.2"
 gmsPlugin = "4.4.0"
 ksp = "1.9.10-1.0.13"
@@ -33,7 +33,7 @@ lottieCompose = "6.1.0"
 # ... NETWORK ...
 okhttp = "4.12.0"
 retrofit = "2.9.0"
-coil = "2.4.0"
+coil = "2.5.0"
 
 # ... STORAGE:PREFERENCES ...
 androidxDataStore = "1.0.0"
@@ -45,7 +45,7 @@ room = "2.6.0"
 playServicesAuth = "20.7.0"
 
 # ... FIREBASE ...
-firebaseBom = "32.4.1"
+firebaseBom = "32.5.0"
 firebaseCrashlyticsPlugin = "2.9.9"
 
 # ... DAGGER-HILT ...
